@@ -1,5 +1,10 @@
 ### Hi there 👋
 🌱 I’m currently learning ...
+
+[![BruceMaa's github stats](https://github-readme-stats.vercel.app/api?username=BruceMaa&show_icons=true&count_private=true)](https://github.com/BruceMaa)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BruceMaa&layout=compact)](https://github.com/BruceMaa)
+
 <!--
 **BruceMaa/BruceMaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
