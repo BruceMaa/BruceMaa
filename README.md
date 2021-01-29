@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Java,SpringBoot,SpringCloud,Python,Go,Rust,Hadoop,Spark,Carbondata...
+- 🔭 I’m currently working on Java,SpringBoot,SpringCloud,Python,Go,Rust,ElasticSearch,Hadoop,Hive,Presto,Spark,Carbondata...
 - 🌱 I’m currently learning BigData
 
 [![BruceMaa's github stats](https://github-readme-stats.vercel.app/api?username=BruceMaa&show_icons=true&count_private=true)](https://github.com/BruceMaa)
