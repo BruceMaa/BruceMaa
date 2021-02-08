@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brucemaa" alt="brucemaa" /></a> </p>
 
-- 🔭 I’m currently working on [GithubTemplate](https://github.com/GithubTemplate/github-repository-template)
+- 🔭 I’m currently working on [GitHubTemplates](https://github.com/GitHubTemplates/github-repository-template)
 
 - 🌱 I’m currently learning **BigData**
 
-- 👯 I’m looking to collaborate on [GithubTemplate](https://github.com/GithubTemplate/github-repository-template)
+- 👯 I’m looking to collaborate on [GitHubTemplates](https://github.com/GitHubTemplates/github-repository-template)
 
-- 🤝 I’m looking for help with [GithubTemplate](https://github.com/GithubTemplate/github-repository-template)
+- 🤝 I’m looking for help with [GitHubTemplate](https://github.com/GitHubTemplates/github-repository-template)
 
 - 👨‍💻 All of my projects are available at [https://github.com/BruceMaa](https://github.com/BruceMaa)
 
