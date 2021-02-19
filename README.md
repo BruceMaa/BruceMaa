@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brucemaa&label=Profile%20views&color=0e75b6&style=flat" alt="brucemaa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brucemaa" alt="brucemaa" /></a> </p>
+<p align="left"> <a href="https://github.com/BruceMaa"><img src="https://github-profile-trophy.vercel.app/?username=brucemaa" alt="brucemaa" /></a> </p>
 
 - 🔭 I’m currently working on [GitHubTemplates](https://github.com/GitHubTemplates/github-repository-template)
 
