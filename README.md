@@ -15,13 +15,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/BruceMaa](https://github.com/BruceMaa)
 
-- 📝 I regularly write articles on [https://blog.brucemaa.com/](https://blog.brucemaa.com/)
+- 📝 I regularly write articles on [https://brucemaa.cn](https://brucemaa.cn)
 
 - 💬 Ask me about **Java,SpringBoot,SpringCloud,Python,Go,Rust,Hadoop,Spark**
 
 - 📫 How to reach me **bruce.maqiang@gmail.com**
 
-- 📄 Know about my experiences [https://blog.brucemaa.com/](https://blog.brucemaa.com/)
+- 📄 Know about my experiences [https://brucemaa.cn](https://brucemaa.cn)
 
 - ⚡ Fun fact **thinking,coding**
 
